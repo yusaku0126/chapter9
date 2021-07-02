@@ -33,6 +33,7 @@ header {
   background-image: url(img/flow01.png);
   height: 150px;
   margin: 10px;
+  background-position: bottom;
 }
 
 .flow2-picture {
