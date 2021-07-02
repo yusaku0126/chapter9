@@ -3,3 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header {
+  background-color: #FF9A4B;
+  height: 50px;
+}
+
+.main-box {
+  width: 960px;
+  margin: 50px auto;
+}
+
+footer {
+  background-color: #AAAAAA;
+  height: 50px;
+}
