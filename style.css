@@ -20,6 +20,7 @@ header {
   width: 300px;
   background-color: #EEEEEE;
   position: relative;
+  padding: 10px;
 }
 
 .main-content2 {
@@ -27,25 +28,28 @@ header {
   margin: 0 30px;
   background-color: #EEEEEE;
   position: relative;
+  padding: 10px;
 }
 
 .flow1-picture {
   background-image: url(img/flow01.png);
   height: 150px;
-  margin: 10px;
   background-position: bottom;
+  background-size: cover;
 }
 
 .flow2-picture {
   background-image: url(img/flow02.png);
   height: 150px;
-  margin: 10px;
+  background-position: bottom;
+  background-size: cover;
 }
 
 .flow3-picture {
   background-image: url(img/flow03.png);
   height: 150px;
-  margin: 10px;
+  background-position: bottom;
+  background-size: cover;
 }
 
 .flow-title {
