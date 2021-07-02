@@ -12,6 +12,56 @@ header {
 .main-box {
   width: 960px;
   margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.main-content {
+  width: 300px;
+  background-color: #EEEEEE;
+  position: relative;
+}
+
+.main-content2 {
+  width: 300px;
+  margin: 0 30px;
+  background-color: #EEEEEE;
+  position: relative;
+}
+
+.flow1-picture {
+  background-image: url(img/flow01.png);
+  height: 150px;
+  margin: 10px;
+}
+
+.flow2-picture {
+  background-image: url(img/flow02.png);
+  height: 150px;
+  margin: 10px;
+}
+
+.flow3-picture {
+  background-image: url(img/flow03.png);
+  height: 150px;
+  margin: 10px;
+}
+
+.flow-title {
+  background-color: #FF9A4B;
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.title-text {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.main-text {
+  font-size: small;
 }
 
 footer {
